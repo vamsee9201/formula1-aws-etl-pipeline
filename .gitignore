@@ -1,3 +1,4 @@
 /f1etl/
 account_details.txt
 aws_keys.json
+/lambdas/bronze_lambda/aws_keys.json
